@@ -5,7 +5,7 @@ import re
 
 # host = "ftp.perftech.com"
 host = "b.foobar.fi"
-save_path = "D:\Users\RayCrow\Documents\GitHub\LPC-M-8-10\7 txt"
+save_path = "D:\Users\RayCrow\Documents\GitHub\LPC-M-8-10\7txt"
 
 user = ""
 passw = ""
